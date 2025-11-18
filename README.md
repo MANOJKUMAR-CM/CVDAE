@@ -33,3 +33,13 @@ The model significantly reduces CSI feedback overhead while achieving state-of-t
 
 ![CVDAE Architecture](architecture.png)
 
+---
+## 📧 Contact
+
+If you have questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Name**: Manoj Kumar.CM  
+- **Email**: [manoj.kumar@dsai.iitm.ac.in]  
+- **GitHub Profile**: [Manoj Kumar C M](https://github.com/MANOJKUMAR-CM)
+---  
+💡 **Have feedback or suggestions? Feel free to contribute!**  
