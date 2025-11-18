@@ -6,21 +6,29 @@ The model significantly reduces CSI feedback overhead while achieving state-of-t
 
 ## 🌟 Key Features
 
-- Complex-Valued Processing:
+- ### Complex-Valued Processing:
   
   Uses complex linear layers and complex tanh activation to preserve amplitude–phase relationships in CSI.
 
-- Differential Learning:
+- ### Differential Learning:
   
   Encodes only the difference between consecutive CSI frames, leveraging strong temporal correlation.
 
-- Memory-Based Architecture:
+- ### Memory-Based Architecture:
   
   Maintains encoder and decoder memories to track temporal evolution across CSI frames.
 
-- Enhanced Robustness Across Mobility Conditions:
+- ### Enhanced Robustness Across Mobility Conditions:
   
   Demonstrated superiority under UE speeds of 40 km/h, 100 km/h, and 360 km/h.
 
-- Superior to Conventional Methods:
+- ### Superior to Conventional Methods:
+  
   Outperforms CsiNet, CRNet, and a baseline CVAE in both NMSE and cosine similarity metrics.
+
+## 📘 Architecture Overview
+- Complex valued Autoencoder
+- Complex valued difference network
+- Complex valued summation network
+
+
