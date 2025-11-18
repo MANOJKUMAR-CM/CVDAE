@@ -31,4 +31,5 @@ The model significantly reduces CSI feedback overhead while achieving state-of-t
 - Complex valued difference network
 - Complex valued summation network
 
+![CVDAE Architecture](CVDAE (1) (1).pdf)
 
