@@ -1,4 +1,4 @@
-# 📡 Complex-Valued Differential Autoencoder (CVDAE)
+# 📡 Complex-Valued Differential Autoencoder (CVDAE) - Accepted in AAAI 2026 ML4Wireless Workshop
 ## Temporal CSI Compression for Massive MIMO Systems
 CVDAE is a feedback-driven temporal CSI compression framework that operates natively in the complex domain, explicitly modeling amplitude–phase coupling and temporal continuity in wireless channels.
 
